@@ -19,8 +19,10 @@ If a task's due date has passed, the task will be shown as **Overdue**.
 ## How to Run the Project
 1. Make sure Python is installed on your device.
 2. Install Flask if not installed yet:
+   ```bash
    pip install flask
-3. Run the Python app:
+4. Run the Python app:
+   ```bash
    python app.py
-4. Open your browser and go to:
+6. Open your browser and go to:
    http://127.0.0.1:5000
